@@ -1,4 +1,4 @@
-from QUANTAXIS.QARP.QARisk import QA_Risk, QA_Performance
+from QUANTAXIS.QAARP.QARisk import QA_Risk, QA_Performance
 from QUANTAXIS.QAARP.QAAccount import QA_Account
 
 class QA_Rank():
